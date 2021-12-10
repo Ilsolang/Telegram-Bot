@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+colorama
+Wikipedia-API
+translate
+SpeechRecognition
+urllib3
+beautifulsoup4
+dbf_light 
+pycbrf
