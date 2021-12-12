@@ -1,6 +1,6 @@
-from pycbrf import ExchangeRates
-from config import bot
-import decimal
+#from pycbrf import ExchangeRates
+#from config import bot
+#import decimal
 
 def rate_cbr(m):
     rates = ExchangeRates(locale_en=True)
